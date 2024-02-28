@@ -1,4 +1,4 @@
-let endTime = new Date("Mar 12, 2024 11:30:00").getTime();
+let endTime = new Date("Mar 18, 2024 11:30:00").getTime();
 
 let time = setInterval(() => {
     let now = new Date().getTime();
